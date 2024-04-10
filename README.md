@@ -12,3 +12,4 @@ Clonar Repositório
 
 ### Agradecimentos:
 #### Agradecemos por considerar o uso deste projeto para gerenciar seu **Studio de Dança Maicon Lopes 🤖💃**. Se encontrar algum problema ou tiver sugestões para melhorias, não hesite em nos informar.
+<img src="./visitaTecnicaEstudioDeDanca.jpeg" height="500px"/>
