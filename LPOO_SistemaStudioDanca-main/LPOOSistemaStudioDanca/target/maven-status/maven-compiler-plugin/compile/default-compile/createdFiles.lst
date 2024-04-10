@@ -1,5 +1,15 @@
-br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Modalidade.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\FolhaPagamento.class
 br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Modalidade_.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Pagamentos.class
 br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\dao\PersistenciaJPA.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Professores.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Alunos.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\FormaPgto.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Contratos.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Modalidade.class
 br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\LPOO_SistemaStudioDanca.class
 br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\dao\InterfacePersistencia.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Pessoas.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\ItensContrato.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Pagamentos_.class
+br\edu\ifsul\cc\lpoo\studiodanca\lpoo_sistemastudiodanca\model\Pacotes.class

@@ -3,16 +3,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package br.edu.ifsul.cc.lpoo.studiodanca.lpoo_sistemastudiodanca.model;
+import java.util.*;
+import java.io.*;
+import javax.persistence.*;
 
 /**
  *
  * @author 20212pf.cc0006
  */
-@Entity
-public class Pessoas implements Serializable {
-    @Id
-    @SequenceGenerator(name = "seq_pessoas", sequenceName = "seq_pessoas_id", allocationSize = 1)
-    @GeneratedValue(generator = "seq_pessoas", strategy = GenerationType.SEQUENCE) 
+//@Entity
+public abstract class Pessoas implements Serializable {
+//    @Id
+//    @SequenceGenerator(name = "seq_pessoas", sequenceName = "seq_pessoas_id", allocationSize = 1)
+//    @GeneratedValue(generator = "seq_pessoas", strategy = GenerationType.SEQUENCE) 
     Integer id;
     String nome;
     String fone;

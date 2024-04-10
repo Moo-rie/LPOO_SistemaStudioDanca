@@ -4,7 +4,6 @@
  */
 package br.edu.ifsul.cc.lpoo.studiodanca.lpoo_sistemastudiodanca.dao;
 
-import br.edu.ifsul.cc.lpoo.studiodanca.lpoo_sistemastudiodanca.dao.InterfacePersistencia;
 import javax.persistence.*;
 
 /**

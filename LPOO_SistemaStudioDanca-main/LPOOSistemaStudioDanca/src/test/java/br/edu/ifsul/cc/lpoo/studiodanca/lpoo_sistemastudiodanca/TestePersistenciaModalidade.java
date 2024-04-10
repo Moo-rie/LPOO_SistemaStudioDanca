@@ -35,7 +35,7 @@ public class TestePersistenciaModalidade {
         
         jpa.persist(m);
         
-        Modalidade persistidoProduto = (Modalidade)jpa.find(Modalidade.class, m.getId());
+        Modalidade persistidoProduto = (Modalidade)jpa.find(Modalidade.class, m.getId());;
         
         Assert.assertEquals(m.getDescricao(), persistidoProduto.getDescricao());
         

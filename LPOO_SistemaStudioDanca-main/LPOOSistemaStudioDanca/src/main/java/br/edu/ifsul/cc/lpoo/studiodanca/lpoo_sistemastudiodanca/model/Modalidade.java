@@ -12,12 +12,11 @@ import javax.persistence.*;
 @Entity
 public class Modalidade implements Serializable {
     @Id
-    @SequenceGenerator(name = "seq_modalidade", sequenceName = "seq_modalidade_id", allocationSize = 1)
-    @GeneratedValue(generator = "seq_modalidade", strategy = GenerationType.SEQUENCE) 
-    Integer id;
+    @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    private Integer id;
     
     @Column(nullable = true, length = 200)
-    String descricao;
+    private String descricao;
 
     public Integer getId() {
         return id;
